@@ -1,0 +1,4 @@
+﻿year_a,year_b,spearman_rank_correlation,province_count
+2010,2015,0.829675,19
+2010,2020,0.589113,19
+2015,2020,0.583845,19

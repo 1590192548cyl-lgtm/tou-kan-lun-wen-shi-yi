@@ -1,0 +1,33 @@
+{
+  "ledger_rows": 14,
+  "usable_bilateral_actual_rows": 10,
+  "usable_years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "unique_directed_pairs": 4,
+  "observations_by_pair": {
+    "四川->云南": 2,
+    "湖南->江西": 2,
+    "湖南->重庆": 3,
+    "贵州->云南": 3
+  },
+  "duplicate_pair_year_river_keys": [],
+  "gate_a_passed_for_original_bilateral_panel": false,
+  "gate_a_reason": "真实逐笔支付仍不足以形成原稿所称2018—2025年多省对平衡面板；未公开年份必须记为缺失，不能记为零。",
+  "permitted_analysis": [
+    "verified payment ledger description",
+    "river-specific payment chronology",
+    "published theoretical-standard panel description"
+  ],
+  "prohibited_analysis": [
+    "original 28-pair bilateral frontier estimation",
+    "treating unobserved payments as zero",
+    "interpreting theoretical standards as actual P_ijt"
+  ]
+}

@@ -1,0 +1,8 @@
+﻿from_year,to_year,from_role,to_role,province_count
+2010,2015,payer,payer,8
+2010,2015,payer,recipient,1
+2010,2015,recipient,payer,3
+2010,2015,recipient,recipient,7
+2015,2020,payer,payer,6
+2015,2020,payer,recipient,5
+2015,2020,recipient,recipient,8

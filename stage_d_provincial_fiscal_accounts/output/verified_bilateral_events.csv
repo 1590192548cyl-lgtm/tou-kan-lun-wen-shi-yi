@@ -1,0 +1,11 @@
+﻿record_id,obligation_year,reported_payment_year,payer,recipient,river,amount_10k_cny,evidence_grade,source_id,aggregation_role
+chishui_guizhou_to_yunnan_2023,2023,2023,贵州,云南,赤水河,2550.0,A,guizhou_2023_chishui_payment,bilateral_actual_event
+chishui_guizhou_to_yunnan_2024,2024,2024,贵州,云南,赤水河,3000.0,A,guizhou_2024_chishui_decision,bilateral_actual_event
+chishui_sichuan_to_yunnan_2021,2021,2022,四川,云南,赤水河,3000.0,A,sichuan_2022_accounts_chishui_2021,bilateral_actual_event
+chishui_guizhou_to_yunnan_2018,2018,2019,贵州,云南,赤水河,2000.0,A,mof_yunnan_chishui_2018_settlement,bilateral_actual_event
+chishui_sichuan_to_yunnan_2018,2018,2019,四川,云南,赤水河,2000.0,A,mof_yunnan_chishui_2018_settlement,bilateral_actual_event
+youshui_hunan_to_chongqing_2019,2019,,湖南,重庆,酉水,480.0,A,hunan_2022_crossprovince_payments,bilateral_actual_event
+youshui_hunan_to_chongqing_2020,2020,,湖南,重庆,酉水,480.0,A,hunan_2022_crossprovince_payments,bilateral_actual_event
+lushui_hunan_to_jiangxi_2019h2,2019,,湖南,江西,渌水,600.0,A,hunan_2022_crossprovince_payments,bilateral_actual_event
+lushui_hunan_to_jiangxi_2020,2020,,湖南,江西,渌水,1200.0,A,hunan_2022_crossprovince_payments,bilateral_actual_event
+youshui_hunan_to_chongqing_2022,2022,2023,湖南,重庆,酉水,480.0,A,chongqing_youshui_2022_payment,bilateral_actual_event

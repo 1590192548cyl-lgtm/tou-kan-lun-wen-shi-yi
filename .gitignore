@@ -1,0 +1,4 @@
+%SYSTE~1/
+.firecrawl/
+**/__pycache__/
+*.py[cod]

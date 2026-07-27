@@ -1,0 +1,202 @@
+[
+  {
+    "source_id": "mof_2021_25",
+    "url": "https://zyhj.mof.gov.cn/zcfb/202104/t20210430_3695816.htm",
+    "source_type": "policy_rule",
+    "publisher": "财政部",
+    "scope": "长江全流域",
+    "expected_year": 2021
+  },
+  {
+    "source_id": "mof_2025_50",
+    "url": "https://zyhj.mof.gov.cn/zcfb/202506/t20250603_3965044.htm",
+    "source_type": "policy_rule",
+    "publisher": "财政部",
+    "scope": "长江、黄河干流统一机制",
+    "expected_year": 2025
+  },
+  {
+    "source_id": "mof_2025_qa",
+    "url": "https://www.mof.gov.cn/jrttts/202506/t20250611_3965448.htm",
+    "source_type": "policy_interpretation",
+    "publisher": "财政部",
+    "scope": "统一核算与中央国库划拨",
+    "expected_year": 2025
+  },
+  {
+    "source_id": "mof_2023_settlement",
+    "url": "https://zyhj.mof.gov.cn/zxzyzf/swrfzzj/202307/P020230718401429437562.pdf",
+    "source_type": "central_settlement",
+    "publisher": "财政部",
+    "scope": "流域横向生态保护补偿机制建设资金清算奖励",
+    "expected_year": 2023
+  },
+  {
+    "source_id": "jiangsu_2022_suwan_consultation",
+    "url": "https://czt.jiangsu.gov.cn/art/2022/10/14/art_8065_10629133.html",
+    "source_type": "bilateral_consultation",
+    "publisher": "江苏省财政厅",
+    "scope": "苏皖长江干流",
+    "expected_year": 2022
+  },
+  {
+    "source_id": "jiangsu_2023_suwan_agreement",
+    "url": "https://czt.jiangsu.gov.cn/art/2023/12/18/art_7938_11102476.html",
+    "source_type": "bilateral_agreement",
+    "publisher": "江苏省财政厅",
+    "scope": "苏皖长江流域",
+    "expected_year": 2023
+  },
+  {
+    "source_id": "shanghai_2025_husu_consultation",
+    "url": "https://czj.sh.gov.cn/zys_8908/xwzx_8909/czyw/20250416/xxfbinfo0000013704.html",
+    "source_type": "bilateral_consultation",
+    "publisher": "上海市财政局",
+    "scope": "沪苏长江干流及太浦河",
+    "expected_year": 2025
+  },
+  {
+    "source_id": "chongqing_2025_cross_province",
+    "url": "https://czj.cq.gov.cn/zwxx_268/czdt/bmdt_31579/202501/t20250123_14204334_wap.html",
+    "source_type": "agreement_summary",
+    "publisher": "重庆市财政局",
+    "scope": "川渝、渝鄂、渝黔跨省机制",
+    "expected_year": 2025
+  },
+  {
+    "source_id": "mof_2023_settlement_notice",
+    "url": "https://zyhj.mof.gov.cn/zxzyzf/swrfzzj/202307/t20230718_3896907.htm",
+    "source_type": "central_settlement_notice",
+    "publisher": "财政部",
+    "scope": "2023年流域横向生态补偿清算奖励",
+    "expected_year": 2023
+  },
+  {
+    "source_id": "mof_2024_settlement_notice",
+    "url": "https://zyhj.mof.gov.cn/zxzyzf/swrfzzj/202407/t20240705_3938862.htm",
+    "source_type": "central_settlement_notice",
+    "publisher": "财政部",
+    "scope": "2024年流域横向生态补偿清算奖励",
+    "expected_year": 2024
+  },
+  {
+    "source_id": "mof_2024_settlement",
+    "url": "https://zyhj.mof.gov.cn/zxzyzf/swrfzzj/202407/P020240705520847293313.pdf",
+    "source_type": "central_settlement",
+    "publisher": "财政部",
+    "scope": "2024年流域横向生态保护补偿机制建设资金清算奖励表",
+    "expected_year": 2024
+  },
+  {
+    "source_id": "guizhou_2023_chishui_payment",
+    "url": "https://czt.guizhou.gov.cn/xwzx/tzgg/202406/t20240625_84911704.html",
+    "source_type": "actual_payment_notice",
+    "publisher": "贵州省财政厅",
+    "scope": "2023年度贵州拨付云南赤水河补偿资金",
+    "expected_year": 2023
+  },
+  {
+    "source_id": "guizhou_2024_chishui_decision",
+    "url": "https://sthj.guizhou.gov.cn/zwgk/zdlyxx/czzj/czyjs/202509/P020250901577061441585.pdf",
+    "source_type": "department_final_accounts",
+    "publisher": "贵州省生态环境厅",
+    "scope": "2024年度赤水河横向生态补偿执行",
+    "expected_year": 2024
+  },
+  {
+    "source_id": "yunnan_2024_chishui_summary",
+    "url": "https://wcb.yn.gov.cn/html/2024/jianyitian_0603/3059766.html",
+    "source_type": "official_payment_summary",
+    "publisher": "云南省水利厅",
+    "scope": "2018—2020年赤水河补偿收款及第二轮协议",
+    "expected_year": 2024
+  },
+  {
+    "source_id": "yunnan_2025_chishui_case",
+    "url": "https://dnr.yn.gov.cn/html/2025/shengtingdongtai_0818/4050335.html",
+    "source_type": "official_case_summary",
+    "publisher": "云南省自然资源厅",
+    "scope": "赤水河两轮资金池与分配比例",
+    "expected_year": 2025
+  },
+  {
+    "source_id": "paper_2025_chishui_ecosystem_services",
+    "url": "https://www.jnr.ac.cn/CN/abstract/article/1000-3037/70498",
+    "source_type": "peer_reviewed_paper",
+    "publisher": "自然资源学报",
+    "scope": "赤水河生态系统服务与横向补偿",
+    "expected_year": 2025
+  },
+  {
+    "source_id": "paper_2025_yangtze_mechanism_review",
+    "url": "https://opaj.napstic.cn/periodicalArticle/0120250501467782",
+    "source_type": "peer_reviewed_paper",
+    "publisher": "资源开发与市场",
+    "scope": "长江流域跨省横向生态补偿机制",
+    "expected_year": 2025
+  },
+  {
+    "source_id": "sichuan_2022_accounts_chishui_2021",
+    "url": "https://sthjt.sc.gov.cn/sthjt/c103971/2023/8/24/40492db467994cbc98cfc71cc3042916/files/2022%E5%B9%B4%E5%BA%A6%E5%9B%9B%E5%B7%9D%E7%9C%81%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E5%8E%85%E9%83%A8%E9%97%A8%E5%86%B3%E7%AE%97.pdf",
+    "source_type": "department_final_accounts",
+    "publisher": "四川省生态环境厅",
+    "scope": "2021年度四川拨付云南赤水河横向生态补偿",
+    "expected_year": 2022
+  },
+  {
+    "source_id": "paper_2025_yangtze_water_compensation",
+    "url": "https://cjournal.hep.com.cn/1000-288X/CN/PDF/10.13961/j.cnki.stbctb.2025.04.020",
+    "source_type": "peer_reviewed_paper",
+    "publisher": "水土保持通报",
+    "scope": "长江流域19省水资源生态补偿理论标准",
+    "expected_year": 2025
+  },
+  {
+    "source_id": "paper_2025_yangtze_service_flow",
+    "url": "https://www.jjdl.com.cn/EN/abstract/article/1000-8462/72611",
+    "source_type": "peer_reviewed_paper",
+    "publisher": "经济地理",
+    "scope": "长江干流生态系统服务流与横向补偿",
+    "expected_year": 2025
+  },
+  {
+    "source_id": "mof_yunnan_chishui_2018_settlement",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/xinwenlianbo/yunnancaizhengxinxilianbo/201912/t20191210_3438953.htm",
+    "source_type": "actual_payment_notice",
+    "publisher": "财政部",
+    "scope": "2018年度贵州和四川分别支付云南赤水河补偿",
+    "expected_year": 2019
+  },
+  {
+    "source_id": "ndrc_yunnan_chishui_2018_2020",
+    "url": "https://www.ndrc.gov.cn/fggz/dqzx/stthdqzl/202112/t20211229_1310809.html",
+    "source_type": "official_payment_summary",
+    "publisher": "国家发展和改革委员会",
+    "scope": "2018至2020年赤水河履约汇总",
+    "expected_year": 2021
+  },
+  {
+    "source_id": "hunan_2022_crossprovince_payments",
+    "url": "https://czt.hunan.gov.cn/czt/ztzl/jytabl_1/dfgk/zxta/202211/t20221123_29135631.html",
+    "source_type": "official_payment_summary",
+    "publisher": "湖南省财政厅",
+    "scope": "湖南向重庆和江西支付2019至2020年度补偿",
+    "expected_year": 2022
+  },
+  {
+    "source_id": "chongqing_youshui_2022_payment",
+    "url": "https://czj.cq.gov.cn/zwgk_268/zfxxgkml/zcwj/qtwj/202311/t20231102_12509342_wap.html",
+    "source_type": "actual_payment_notice",
+    "publisher": "重庆市财政局",
+    "scope": "湖南向重庆支付2022年度酉水河补偿",
+    "expected_year": 2023
+  },
+  {
+    "source_id": "ndrc_chishui_2020_progress",
+    "url": "https://www.ndrc.gov.cn/fggz/dqzx/stthdqzl/202012/t20201230_1260813.html",
+    "source_type": "official_mechanism_summary",
+    "publisher": "国家发展和改革委员会",
+    "scope": "赤水河2018至2020年协议资金与治理进展",
+    "expected_year": 2020
+  }
+]

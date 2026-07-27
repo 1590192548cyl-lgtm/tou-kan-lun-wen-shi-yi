@@ -1,0 +1,22 @@
+{
+  "observation_count": 57,
+  "province_count": 19,
+  "years": [
+    2010,
+    2015,
+    2020
+  ],
+  "balanced_panel": true,
+  "left_censored_values_encoded_as_midpoint_0_005": 4,
+  "analysis_scope": [
+    "descriptive trend",
+    "payer-recipient role transition",
+    "payer and recipient concentration",
+    "province rank persistence"
+  ],
+  "not_identified": [
+    "causal effect",
+    "actual bilateral P_ijt",
+    "fixed-effects regression with adequate time dimension"
+  ]
+}

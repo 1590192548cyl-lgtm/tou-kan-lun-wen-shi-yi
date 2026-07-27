@@ -1,0 +1,5 @@
+source_id,url,tool,result,data_route,amount_found,decision,reason
+firecrawl_ndrc_chishui_2020,https://www.ndrc.gov.cn/fggz/dqzx/stthdqzl/202012/t20201230_1260813.html,firecrawl,success,C,2亿元,retain_as_mechanism_source,披露协议资金池而非逐笔支付
+firecrawl_ndrc_chishui_2021,https://www.ndrc.gov.cn/fggz/dqzx/stthdqzl/202112/t20211229_1310809.html,firecrawl,success,B,0.6亿元|0.8亿元,retain_with_aggregation_limit,云南年度固定出资可形成省级记录但川黔2019付款方仍不可拆
+crawl4ai_jiangxi_total,https://jxf.jiangxi.gov.cn/jxsczt/dyjl/content/content_1850003212027768832.html,crawl4ai,blocked,,19.02亿元,exclude_from_payment_ledger,站点关闭自动化连接且搜索摘要所述省级流域资金不等于跨省实际支付
+firecrawl_chongqing_budget,https://czj.cq.gov.cn/zwgk_268/fdzdgknr/ysjs/zfys/202502/t20250207_14265101.html,firecrawl,success,B|C,76亿元,exclude_from_payment_ledger,生态治理综合预算无法拆出横向补偿金额

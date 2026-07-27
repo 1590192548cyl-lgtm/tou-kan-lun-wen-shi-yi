@@ -1,0 +1,14 @@
+﻿variable,conceptual_block,unit,target_cells,populated_cells,missing_cells
+ammonia_nitrogen_discharge_t,pressure,吨,110,0,110
+cod_discharge_t,pressure,吨,110,0,110
+environmental_investment_100m_cny,protection_cost,亿元,110,0,110
+forest_coverage_pct,contribution,%,110,0,110
+gdp_100m_cny,payment_capacity,亿元,110,0,110
+general_budget_revenue_100m_cny,payment_capacity,亿元,110,0,110
+population_10k,benefit,万人,110,0,110
+secondary_industry_share_pct,pressure,%,110,0,110
+surface_water_good_section_pct,contribution,%,110,0,110
+wastewater_discharge_10k_t,pressure,万吨,110,0,110
+water_resources_100m_m3,contribution,亿立方米,110,0,110
+water_supply_100m_m3,benefit,亿立方米,110,0,110
+water_use_100m_m3,benefit,亿立方米,110,0,110

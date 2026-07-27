@@ -1,0 +1,5 @@
+﻿payer,recipient,event_count,year_count,first_year,last_year,total_amount_10k_cny,mean_event_amount_10k_cny,rivers
+四川,云南,2,2,2018,2021,5000.0,2500.0,赤水河
+湖南,江西,2,2,2019,2020,1800.0,900.0,渌水
+湖南,重庆,3,3,2019,2022,1440.0,480.0,酉水
+贵州,云南,3,3,2018,2024,7550.0,2516.6666666666665,赤水河

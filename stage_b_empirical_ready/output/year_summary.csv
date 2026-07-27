@@ -1,0 +1,4 @@
+﻿year,province_count,payer_count,recipient_count,gross_theoretical_payment_100m_cny,gross_theoretical_receipt_100m_cny,net_sum_100m_cny,payer_hhi,recipient_hhi
+2010,19,9,10,2637.88,240.53,-2397.35,0.689951,0.337389
+2015,19,11,8,1628.89,432.02,-1196.87,0.368922,0.321511
+2020,19,6,13,1805.72,361.9,-1443.82,0.633716,0.344054

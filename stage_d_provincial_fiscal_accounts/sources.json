@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "sichuan_2024_final_accounts",
+    "province": "四川",
+    "year": 2024,
+    "url": "https://czt.sc.gov.cn/scczt/c102361/2025/8/8/fe30cf15c7884610af3b4df051d1e662/files/%E9%99%84%E4%BB%B62%EF%BC%9A%E5%9B%9B%E5%B7%9D%E7%9C%812024%E5%B9%B4%E5%86%B3%E7%AE%97%20.pdf",
+    "publisher": "四川省财政厅",
+    "source_type": "provincial_final_accounts",
+    "unit": "万元",
+    "follow_pdf": false,
+    "indexed_records": [
+      {
+        "account": "ecological_compensation_transfer_income",
+        "reported_value": 1667,
+        "reported_unit": "万元",
+        "value_status": "reported_numeric_indexed_official_pdf",
+        "evidence_text": "2024年四川省一般公共预算收支决算平衡表：区域间转移性收入334667万元，其中接受其他地区援助收入333000万元、生态保护补偿转移性收入1667万元。"
+      },
+      {
+        "account": "ecological_compensation_transfer_expenditure",
+        "reported_value": 2550,
+        "reported_unit": "万元",
+        "value_status": "reported_numeric_indexed_official_pdf",
+        "evidence_text": "2024年四川省一般公共预算收支决算平衡表：区域间转移性支出3550万元，其中援助其他地区支出1000万元、生态保护补偿转移性支出2550万元。"
+      }
+    ]
+  },
+  {
+    "source_id": "hunan_2024_final_accounts",
+    "province": "湖南",
+    "year": 2024,
+    "url": "https://czt.hunan.gov.cn/czt/ztzl/hnczysgk/ysjsbg/202508/33775971/files/84d9d8f8b7c346acb11c7067d60e52ab.pdf",
+    "publisher": "湖南省财政厅",
+    "source_type": "provincial_final_accounts",
+    "unit": "亿元",
+    "follow_pdf": false,
+    "indexed_records": [
+      {
+        "account": "regional_transfer_expenditure_mixed_upper_bound",
+        "reported_value": 0.2,
+        "reported_unit": "亿元",
+        "value_status": "mixed_total_not_usable_as_payment",
+        "evidence_text": "2024年湖南省一般公共预算支出决算总表：区域间转移性支出0.2亿元；附注说明该数同时包含支援其他地区救灾和兑现跨省生态保护补偿协议支出，无法单独拆分。"
+      }
+    ]
+  },
+  {
+    "source_id": "chongqing_2024_final_accounts",
+    "province": "重庆",
+    "year": 2024,
+    "url": "https://czj.cq.gov.cn/zwgk_268/fdzdgknr/ysjs/zfjs/202508/t20250813_14897562.html",
+    "publisher": "重庆市财政局",
+    "source_type": "provincial_final_accounts",
+    "unit": "万元",
+    "follow_pdf": true,
+    "indexed_records": []
+  }
+]
